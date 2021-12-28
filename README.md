@@ -10,3 +10,4 @@ The following examples are available right now (ordered by complexity (as I feel
 | [if.asm](if.asm)                             | Implementation of `if-else` structure        |
 | [russian_roulette.asm](russian_roulette.asm) | Implementation of Russian roulette           |
 | [hello_name.asm](hello_name.asm)             | Prints "Hello, {name}!\n"                    |
+| [while.asm](while.asm)                       | While loop used to print a character N times |
