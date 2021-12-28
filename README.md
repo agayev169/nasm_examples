@@ -12,3 +12,4 @@ The following examples are available right now (ordered by complexity (as I feel
 | [hello_name.asm](hello_name.asm)             | Prints "Hello, {name}!\n"                    |
 | [while.asm](while.asm)                       | While loop used to print a character N times |
 | [concat.asm](concat.asm)                     | Concatenates strings and prints the result   |
+| [func.asm](func.asm)                         | Sum function                                 |
